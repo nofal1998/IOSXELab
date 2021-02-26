@@ -1,2 +1,0 @@
-# IOSXELab
-CSAP Bootcamp Lab
